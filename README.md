@@ -2,7 +2,7 @@
 
 
 # About Me
-- 😄 Hi! I'm Nuno, a Junior Software Developer
+- 😄 Hi! I'm Riley, a Junior Software Developer
 - 🖥️ I'm a Laravel developer and enthusiast, always looking to learn more about the community and ecosystem
 - 🌼 Looking to grow as a developer and learn more from the people around me
 - ❤️ Passionate about tech, music and videogames
