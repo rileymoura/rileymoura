@@ -1,5 +1,3 @@
-# Hello there 👋
-
 # Hi, I'm Riley 👋
 
 **Full Stack Engineer | Backend Specialist**
@@ -19,15 +17,15 @@ Architecting scalable systems and resilient infrastructure.
 
 | Area | Technologies |
 | :--- | :--- |
-| **Backend** | PHP (Laravel), Node.js (Express/NestJS), TypeScript |
-| **Frontend** | Vue.js, React, Remix, Tailwind CSS |
+| **Backend** | PHP (Laravel), Node.js (Express), TypeScript |
+| **Frontend** | Vue.js, Tailwind CSS |
 | **Infrastructure** | AWS, Docker, Jenkins, RabbitMQ, Redis |
-| **Database** | MySQL, PostgreSQL, MongoDB |
+| **Database** | MySQL, MongoDB |
 
 ---
 
 ### 📈 Featured Experience
-- **Fujitsu:** Developing mission-critical enterprise software and managing cloud infrastructure.
+- **Fujitsu:** Developing mission-critical enterprise software.
 - **Armilustrium (Client: NOS SGPS):** Architected and scaled backend services for one of Portugal's largest telcos.
 - **Hello Blossom:** Built a SaaS platform from the ground up using microservices architecture.
 
