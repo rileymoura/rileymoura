@@ -1,14 +1,37 @@
 # Hello there 👋
 
+# Hi, I'm Riley 👋
 
-# About Me
-- 😄 Hi! I'm Riley, a Junior Software Developer
-- 🖥️ I'm a Laravel developer and enthusiast, always looking to learn more about the community and ecosystem
-- 🌼 Looking to grow as a developer and learn more from the people around me
-- ❤️ Passionate about tech, music and videogames
+**Full Stack Engineer | Backend Specialist**
+Architecting scalable systems and resilient infrastructure.
 
-# Tech Stack
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+---
+
+### 🚀 About Me
+- 👨‍💻 **Currently:** Full Stack Engineer at **Fujitsu**, building enterprise-level solutions.
+- 🏗️ **Core Expertise:** High-performance APIs, Microservices, and Distributed Systems.
+- 🎓 **Education:** Pursuing a degree in **Social Sciences** at Universidade Aberta — leveraging human-centric insights to build better technology.
+- 🌍 **Language:** Bilingual (English & Portuguese).
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+| Area | Technologies |
+| :--- | :--- |
+| **Backend** | PHP (Laravel), Node.js (Express/NestJS), TypeScript |
+| **Frontend** | Vue.js, React, Remix, Tailwind CSS |
+| **Infrastructure** | AWS, Docker, Jenkins, RabbitMQ, Redis |
+| **Database** | MySQL, PostgreSQL, MongoDB |
+
+---
+
+### 📈 Featured Experience
+- **Fujitsu:** Developing mission-critical enterprise software and managing cloud infrastructure.
+- **Armilustrium (Client: NOS SGPS):** Architected and scaled backend services for one of Portugal's largest telcos.
+- **Hello Blossom:** Built a SaaS platform from the ground up using microservices architecture.
+
+---
 
 # GitHub Stats
 <table align="center" border="0" cellpadding="0" cellspacing="0">
@@ -32,4 +55,4 @@
 
 
 # Contact Me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nmoura49@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nunompmoura/) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://www.discord.gg/ATsmvzW4)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nmoura49@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rileymoura/) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://www.discord.gg/ATsmvzW4)
