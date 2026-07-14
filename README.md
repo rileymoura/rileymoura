@@ -1,14 +1,13 @@
 # Hi, I'm Riley 👋
 
-**Full Stack Engineer | Backend Specialist**
+**Full Stack Developer | Backend Specialist**
 Architecting scalable systems and resilient infrastructure.
 
 ---
 
 ### 🚀 About Me
-- 👨‍💻 **Currently:** Full Stack Engineer at **Fujitsu**, building enterprise-level solutions.
+- 👨‍💻 **Currently:** Full Stack Developer looking for new experiences.
 - 🏗️ **Core Expertise:** High-performance APIs, Microservices, and Distributed Systems.
-- 🎓 **Education:** Pursuing a degree in **Social Sciences** at Universidade Aberta — leveraging human-centric insights to build better technology.
 - 🌍 **Language:** Bilingual (English & Portuguese).
 
 ---
@@ -19,8 +18,8 @@ Architecting scalable systems and resilient infrastructure.
 | :--- | :--- |
 | **Backend** | PHP (Laravel), Node.js (Express), TypeScript |
 | **Frontend** | Vue.js, Tailwind CSS |
-| **Infrastructure** | AWS, Docker, Jenkins, RabbitMQ, Redis |
-| **Database** | MySQL, MongoDB |
+| **Infrastructure** | Docker, RabbitMQ, Redis |
+| **Database** | MySQL, MongoDB, MariaDB, SQL Server, Redis |
 
 ---
 
